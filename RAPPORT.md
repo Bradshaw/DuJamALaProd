@@ -22,13 +22,20 @@ Il y a des règles spécifiques à chaque évènement, Global Game Jam impose un
 
 ### Pourquoi jammer?
 
+Ayant appris à faire des jeux en Jam, je ne peux qu'insister, le Game Jam est un excéllent outil d'apprentissage. Avoir un butoir, un projet, un défi et ayant besoin de maîtriser tellement d'elements techniques, technologiques, artistiques et culturels, ça pousse vers l'avant et vers le haut. On apprend à chaque fois, que ce soit l'implémentation d'une nouvelle structure de données, une nouvelle technologie, une façon de mieux communiquer des concepts au joueur ou comment être capable d'accepter ses défauts et reconnaître ses talents.
 
-### Qu'est-ce qu'un "Bon jammeur"?
+De plus, à chaque Jam, un nouveau jeu. Ce jeu est souvent un peu faible en contenu, et il souffre souvent d'un effet "brut de décoffrage". Malgré ces défauts, ce nouveau jeu présente souvent des idées novateurs, parfois sous forme d'un gameplay original, et très souvent sous forme d'une solution intéressante à un problème.
+
+Le coté social est important aussi, on se compare aux autres, on fait tester son jeux aux autres, on vole impunément des idées aux autres. Un Jam est finalement un forum de discussion où le Jeu créé prime sur la parole.
 
 
 
 ## La production "professionnelle"
 ### Cas extrême: "Waterfall"
+
+A l'autre bout de la production de jeux vidéos, on peut voir le développement en "Waterfall". On compose un document de design, on s'en sert pour créer un cahier des charges, et l'entreprise se met en route. On implémente le cahier des charges élément par élément, fonction par fonction.
+
+Les grandes entreprises aiment cette méthode. Ils ont des très grandes équipes à gérer, une quantité énorme de contenu à créer, et souvent ils vont utiliser des designs qui ont bien fonctionnés dans le passé pour éduquer leurs décisions.
 
 ### Chez NaturalPad: "Agile"
 
