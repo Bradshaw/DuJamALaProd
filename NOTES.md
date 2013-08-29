@@ -95,6 +95,32 @@ Exemple:
 > Résultat: *Les joueurs aiment la sensation de vitesse, mais perdent rapidement le contrôle, et n'arrivent pas à retrouver le chemin*   
 > Verdict: *Reprototypage à faire: Auto-piloter le joueur en cas de sortie de chemin*      
 
+
+#### La feuille de questions
+
+Les questions ne sont pas à poser aux testeurs, mais c'est au développeur de chercher à y répondre en observant le comportement des joueurs.
+
+Les questions doivent être définies avant la création du prototype, puisque le prototype est conçu pour trouver des réponses à ces questions.
+
+Dans l'example ci-dessus:
+
+##### Est-ce que les joueurs comprennent le méchanisme?    
+> Oui, c'est assez simple, il n'y a que deux axes à gérer    
+> Cependant, les commandes Kinect ne sont pas intuitives
+
+##### Est-ce que les joueurs arrivent à contrôler efficacement le personnage?
+> Non, les commandes Kinect ne sont pas adaptées
+> Parfois les joueurs s'écartent de la piste et se perdent
+
+##### Est-ce que les joueurs ont la sensation de vitesse?
+> Oui, quand ils arrivent à jouer, ils ont l'impression d'aller même trop vite, mais réussissent tout de même à continuer
+
+##### Quel est le degré de difficulté?
+> Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.
+
+
+
+
 #### Assets neutres
 
 ![cp_orange_hideout](http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg)
