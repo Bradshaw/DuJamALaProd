@@ -60,3 +60,8 @@
   + Avoir des assets "neutres"
     + Un visuel propre et codifié
     + Resister à l'envie de faire du "beau"
+
+
+
+## Ressources
+[Brian van Bruggen on rapid prototyping for games](http://www.brianvanbruggen.com/?page=rapid_prototyping)
