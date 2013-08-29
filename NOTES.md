@@ -65,3 +65,39 @@
 
 ## Ressources
 [Brian van Bruggen on rapid prototyping for games](http://www.brianvanbruggen.com/?page=rapid_prototyping)
+[Map in creation for TF2](http://forums.tf2maps.net/showthread.php?t=5196)
+
+
+
+## Segments
+
+### Formalisation du prototypage
+
+#### La Feuille de prototype
+
+> Concept:   
+> Proposition:   
+> Technologies à utiliser:   
+> Temps de developement:   
+> Temps de test:   
+> Nombre de testeurs:   
+> Résultat:   
+> Verdict:   
+
+Exemple:
+
+> Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être intéressant*   
+> Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*     
+> Technologies à utiliser: *Unity3D*   
+> Temps de developement: *Une semaine*   
+> Temps de test: *Une journée*   
+> Nombre de testeurs: *Quatre*   
+> Résultat: *Les joueurs aiment la sensation de vitesse, mais perdent rapidement le contrôle, et n'arrivent pas à retrouver le chemin*   
+> Verdict: *Reprototypage à faire: Auto-piloter le joueur en cas de sortie de chemin*      
+
+#### Assets neutres
+
+![cp_orange_hideout](http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg)
+
+Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et éxistent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
+
