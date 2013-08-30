@@ -77,6 +77,7 @@
 
 > Concept:   
 > Proposition:   
+> Restrictions:   
 > Technologies à utiliser:   
 > Temps de developement:   
 > Temps de test:   
@@ -87,7 +88,8 @@
 Exemple:
 
 > Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être intéressant*   
-> Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*     
+> Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*   
+> Restrictions: Doit être jouable sur Kinect   
 > Technologies à utiliser: *Unity3D*   
 > Temps de developement: *Une semaine*   
 > Temps de test: *Une journée*   
@@ -127,3 +129,10 @@ Dans l'example ci-dessus:
 
 Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et éxistent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
 
+
+
+
+### Pourquoi une idée peut ne pas marcher, et comment réagir...
+
+#### Ceci est cassé:
+![Fenêtre de fitting dans EVE](http://1.bp.blogspot.com/-x6T1PaUPmho/T1c3WfhuE5I/AAAAAAAAA5U/LpS9cVglcY8/s1600/2012.03.07.10.23.48.png)
