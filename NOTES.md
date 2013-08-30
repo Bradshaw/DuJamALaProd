@@ -134,5 +134,8 @@ Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permet
 
 ### Pourquoi une idée peut ne pas marcher, et comment réagir...
 
-#### Ceci est cassé:
-![Fenêtre de fitting dans EVE](http://1.bp.blogspot.com/-x6T1PaUPmho/T1c3WfhuE5I/AAAAAAAAA5U/LpS9cVglcY8/s1600/2012.03.07.10.23.48.png)
+
+Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
+
+Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
+Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de direction et de stratégie, et on se retrouve dans des 
