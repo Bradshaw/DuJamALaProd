@@ -107,12 +107,12 @@ La cible grand public appréciera plutôt un jeu qui introduit sa complexité pl
 
 ### Organiser son cycle de prototypage
 
-Proposition - [25%|50%|25%]
+#### Proposition - [25%|50%|25%]
 
-#### Step wan: Prep (25%)
+##### Step wan: Prep (25%)
 S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.
 
-#### Step too: Dev (50%)
+##### Step too: Dev (50%)
 Se mettre en mode "jam", trouver rapidement une idée à exploiter, et remplir la feuille de prototype ainsi que la feuille de questions.
 Créer le prototype.
 Le jeu doit être jouable et présenter clairement le concept.
@@ -121,13 +121,22 @@ Graphismes minimum (utiliser un pack d'asset standards)
 Pas d'histoire
 Compteur de score et de vies uniquement pour encourager le gameplay recherché
 
-#### Step tree: Test (25%)
+##### Step tree: Test (25%)
 Faire jouer le prototype au maximum de gens:
 + Explique les règles
 + Explique que le joueur doit parler en jouant
 + Pendant que le joueur joue, ne pas répondre s'il pose des questions ou fait des remarques
-+ Après la session, poser les questions décidées sur la feuille de questions.
++ Après la session, répondre aux questions décidées sur la feuille de questions.
 + Pendant l'entretien, laisser le jeu lancé et disponible
 
 Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
 Décider des modalités de la prochaine étape (Reprototypage, nouveau concept ou passage en production)
+
+#### Durée
+
+Ce cycle peut être sur un laps de temps allant de 4 jours (1 jour prep, 2 jours dev, 1 jour test) à deux semaines (fin de semaine prep, une semaine dev, début de la semaine test, à enchaîner derrière).
+
+Les cycles courts peuvent être utilisés pour tester des gameplays simples ou des améliorations de produits éxistants. Les cycles longs sont plus utiles pour le développement de prototypes de jeu "complets".
+
+La période prep est utile pour se vider l'esprit avant d'attaquer le prototype, ce n'est pas forcément éssentiel si on ne fait qu'un ou deux cycles.
+Cependant, le prototypage étant un exercice assez intense, la fatigue peut rendre moins éfficace à terme, il faut donc prendre ses précautions en mettant du temps de prep de coté pour 
