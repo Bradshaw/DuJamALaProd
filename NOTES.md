@@ -154,10 +154,10 @@ Deux raisons peuvent éxister, soit le méchanisme est inhabituel ou en-dehors d
 
 Pour résoudre ces problèmes, on peut soit fournir un tutoriel ou des explications, soit revoir les mechanismes afin de simplifier ou rapprocher d'un gameplay plus familier.
 
-![Dwarf Fortress: Je vois pas le problème](http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg)
-*Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore*
-![Rymdkapsel: Déjà c'est plus clair](https://lh3.ggpht.com/MK0sMPxnzvPFxE-YsW1GZeGKv6TJsyps9ucO-trna9n6xT_zrYgJocWYEB-AeADDkQ=h900)
-*Rymdkapsel: Le base-building pour tous*
+![Dwarf Fortress: Je vois pas le problème](http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg)  
+*Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore*  
+![Rymdkapsel: Déjà c'est plus clair](https://lh3.ggpht.com/MK0sMPxnzvPFxE-YsW1GZeGKv6TJsyps9ucO-trna9n6xT_zrYgJocWYEB-AeADDkQ=h900)  
+*Rymdkapsel: Le base-building pour tous*  
 
 Dans ce cas, on a aussi une question de cible, un joueur "hardcore", qui sait dans quoi il s'engage, est prêt à faire l'effort de l'apprentissage d'une interface et un gameplay complexes, dans ce cas, simplifier les mechanismes est perçu comme une trahison. La niche visée par des jeux comme Dwarf Fortress apprécient la difficulté de l'interface.
 
