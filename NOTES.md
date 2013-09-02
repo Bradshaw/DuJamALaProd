@@ -138,4 +138,9 @@ Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permet
 Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
 
 Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
-Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de direction et de stratégie, et on se retrouve dans des 
+
+![Où est-il?](http://i882.photobucket.com/albums/ac26/Hayabusa85Screens/Shattered%20Horizon/shattered_horizon2009-12-0215-45-28.jpg)
+*Où est l'ennemi? Si ça se trouve il est au-dessus ou en-dessous...*
+
+Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de direction et de stratégie, et on se retrouve dans des fusillades désordonnées, il devient difficile de comprendre d'où le danger vient, et les adversaires qu'on arrive à toucher ne sont généralement pas conscients de notre position, et ne peuvent donc pas réagir en conséquence.
+Un minimum de playtest, en se posant les bonnes questions, auraient peut-être suffi à remettre en question un design prometteur mais bancal.
