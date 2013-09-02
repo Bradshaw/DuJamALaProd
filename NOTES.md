@@ -135,7 +135,7 @@ Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permet
 ### Pourquoi une idée peut ne pas marcher, et comment réagir...
 
 
-Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
+#### Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
 
 Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
 
@@ -144,3 +144,21 @@ Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finale
 
 Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de direction et de stratégie, et on se retrouve dans des fusillades désordonnées, il devient difficile de comprendre d'où le danger vient, et les adversaires qu'on arrive à toucher ne sont généralement pas conscients de notre position, et ne peuvent donc pas réagir en conséquence.
 Un minimum de playtest, en se posant les bonnes questions, auraient peut-être suffi à remettre en question un design prometteur mais bancal.
+
+
+#### Il est difficile de communiquer certains concepts
+
+Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitif et donc difficile à communiquer éfficacement au joueur.
+
+Deux raisons peuvent éxister, soit le méchanisme est inhabituel ou en-dehors de la culture du joueur, soit le mechanisme est trop complexe et nécéssite un apprentissage pour être maîtrisable.
+
+Pour résoudre ces problèmes, on peut soit fournir un tutoriel ou des explications, soit revoir les mechanismes afin de simplifier ou rapprocher d'un gameplay plus familier.
+
+![Dwarf Fortress: Je vois pas le problème](http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg)
+*Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore*
+![Rymdkapsel: Déjà c'est plus clair](https://lh3.ggpht.com/MK0sMPxnzvPFxE-YsW1GZeGKv6TJsyps9ucO-trna9n6xT_zrYgJocWYEB-AeADDkQ=h900)
+*Rymdkapsel: Le base-building pour tous*
+
+Dans ce cas, on a aussi une question de cible, un joueur "hardcore", qui sait dans quoi il s'engage, est prêt à faire l'effort de l'apprentissage d'une interface et un gameplay complexes, dans ce cas, simplifier les mechanismes est perçu comme une trahison. La niche visée par des jeux comme Dwarf Fortress apprécient la difficulté de l'interface.
+
+La cible grand public appréciera plutôt un jeu qui introduit sa complexité plus doucement, ceci n'est pas une question de difficulté pure, mais simplement de compréhension de méchanismes. Rymdkapsel est un éxemple de cet état d'esprit, en réduisant le jeu de stratégie à ces éléments les plus simples, on obtient un jeu facile d'accès où les joueurs peu expérimentés commencent rapidement à developper leurs tactiques.
