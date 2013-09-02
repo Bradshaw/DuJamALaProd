@@ -1,6 +1,6 @@
-Le prototypage en phases de design
-==================================
-
+Protowiping
+===========
+  
 
 ## Ressources
 [Brian van Bruggen on rapid prototyping for games](http://www.brianvanbruggen.com/?page=rapid_prototyping)   
@@ -73,7 +73,6 @@ Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permet
 
 ### Pourquoi une idée peut ne pas marcher, et comment réagir...
 
-
 #### Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
 
 Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
@@ -103,3 +102,32 @@ Dans ce cas, on a aussi une question de cible, un joueur "hardcore", qui sait da
 La cible grand public appréciera plutôt un jeu qui introduit sa complexité plus doucement, ceci n'est pas une question de difficulté pure, mais simplement de compréhension de méchanismes. Rymdkapsel est un éxemple de cet état d'esprit, en réduisant le jeu de stratégie à ces éléments les plus simples, on obtient un jeu facile d'accès où les joueurs peu expérimentés commencent rapidement à developper leurs tactiques.
 
 Être conscient de la cible et choisir des testeurs qui corréspondent est un élément indispensable de la phase de prototypage. Tous les jeux ne sont pas pour tout le monde, par contre plus la cible est réduite, plus il faut être certain que sa cible apprécie le concept, donc obtenir une réaction positive claire très tôt dans le prototypage
+
+
+
+### Organiser son cycle de prototypage
+
+Proposition - [25%|50%|25%]
+
+#### Step wan: Prep (25%)
+S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.
+
+#### Step too: Dev (50%)
+Se mettre en mode "jam", trouver rapidement une idée à exploiter, et remplir la feuille de prototype ainsi que la feuille de questions.
+Créer le prototype.
+Le jeu doit être jouable et présenter clairement le concept.
+Tout autre élément est à laisser si ça n'aide pas à comprendre et évaluer le concept.
+Graphismes minimum (utiliser un pack d'asset standards)
+Pas d'histoire
+Compteur de score et de vies uniquement pour encourager le gameplay recherché
+
+#### Step tree: Test (25%)
+Faire jouer le prototype au maximum de gens:
++ Explique les règles
++ Explique que le joueur doit parler en jouant
++ Pendant que le joueur joue, ne pas répondre s'il pose des questions ou fait des remarques
++ Après la session, poser les questions décidées sur la feuille de questions.
++ Pendant l'entretien, laisser le jeu lancé et disponible
+
+Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
+Décider des modalités de la prochaine étape (Reprototypage, nouveau concept ou passage en production)
