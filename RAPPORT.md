@@ -11,7 +11,7 @@ Protowiping
 
 ### 1/ Prototyper pour valider ses idées
 
-#### Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
+#### 1. Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
 
 Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
 
@@ -22,7 +22,7 @@ Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de
 Un minimum de playtest, en se posant les bonnes questions, auraient peut-être suffi à remettre en question un design prometteur mais bancal.
 
 
-#### Il est difficile de communiquer certains concepts
+#### 2. Il est difficile de communiquer certains concepts
 
 Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitif et donc difficile à communiquer éfficacement au joueur.
 
@@ -42,16 +42,24 @@ La cible grand public appréciera plutôt un jeu qui introduit sa complexité pl
 Être conscient de la cible et choisir des testeurs qui corréspondent est un élément indispensable de la phase de prototypage. Tous les jeux ne sont pas pour tout le monde, par contre plus la cible est réduite, plus il faut être certain que sa cible apprécie le concept, donc obtenir une réaction positive claire très tôt dans le prototypage
 
 
+### 2/ Coûts du prototypage: Fatigue et sentiment d'inutilité
 
-### 2/ Prototyper pour trouver de nouvelles idées
+#### 1. Fatigue
+
+L'activité de prototypage est particulièrement cérébral, et si on est dans des phases de prototypage rapide sous forme de jam, on peut facilement se sentir épuisé ou à court de motivation.
+
+#### 2. Sentiment d'inutilité
+
+Pour qu'un prototype soit utile, il faut qu'il soit créé rapidement, c'est à dire souvent sans trop de considération pour un code réutilisable. Aussi, l'intérêt du prototypage étant de valider ou rejeter des idées, un prototype se retrouve souvent jeté à la poubelle. On se retrouve donc à écrire des programmes entier qui ne seront souvent jamais utilisés, et même s'ils sont réutilisées, ça ne sera qu'après un refactor, ou préférablement une réécriture.
+
+###### *Pourquoi coder si c'est pour tout jeter?*
+
+Des prototypes de jeux sont finalement quasiment des jeux complets, et ont consommés beaucoup d'effort à la création, on est donc facilement tenté de conserver le prototype tel quel et l'utiliser comme base de production.
+
+###### *Pourquoi la plupart de mes idées finissent par être rejetées?*
 
 
-
-### 3/ Coûts du prototypage: Fatigue et sentiment d'inutilité
-
-
-
-### 4/ Optimiser la valeur, Diminuer le coût
+### 3/ Optimiser la valeur, Diminuer le coût
 
 #### 1. La Feuille de prototype
 
@@ -134,7 +142,7 @@ Faire jouer le prototype au maximum de gens:
 Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
 Décider des modalités de la prochaine étape (Reprototypage, nouveau concept ou passage en production)
 
-#### Durée
+#### 5. Durée
 
 Ce cycle peut être sur un laps de temps allant de 4 jours (1 jour prep, 2 jours dev, 1 jour test) à deux semaines (fin de semaine prep, une semaine dev, début de la semaine test, à enchaîner derrière).
 

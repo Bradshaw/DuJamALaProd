@@ -20,18 +20,15 @@
   3. Comment rendre plus accéssible ou construire des challenges?
   4. Est-ce que le potentiel d'amusement est simplement mal exploité?
 5. un prototype est rejeté s'il n'y a pas de réponses concrètes à ces questions.
-
-### Prototyper pour trouver de nouvelles idées
-
-1. Pendant des phases de prototypage, sortir si possible de ses habitudes.
+6. Pendant des phases de prototypage, sortir si possible de ses habitudes.
   1. Utiliser une technologie nouvelle
   2. Imiter des éléments d'un autre jeu
   3. Mélanger genres et concepts
-2. Confronter son prototype aux regards
+7. Confronter son prototype aux regards
   1. " Ce serait sympa si ... "
   2. " Pourquoi ça fait ...? "
   3. Tout noter, comment tester ces suggestions?
-3. Reprototyper avec les suggestions
+8. Reprototyper avec les suggestions
 
 ### Coûts du prototypage: Fatigue et sentiment d'inutilité
 
@@ -42,7 +39,7 @@
 2. Sentiment d'inutilité
   1. Un bon prototype est crée pour être jeté
   2. Pourquoi coder si c'est pour tout jeter?
-  3. Pourquoi la plupart de mes idée finissent par être rejetées?
+  3. Pourquoi la plupart de mes idées finissent par être rejetées?
 
 ### Optimiser la valeur, Diminuer le coût
 
