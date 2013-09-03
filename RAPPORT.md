@@ -139,4 +139,4 @@ Ce cycle peut être sur un laps de temps allant de 4 jours (1 jour prep, 2 jours
 Les cycles courts peuvent être utilisés pour tester des gameplays simples ou des améliorations de produits éxistants. Les cycles longs sont plus utiles pour le développement de prototypes de jeu "complets".
 
 La période prep est utile pour se vider l'esprit avant d'attaquer le prototype, ce n'est pas forcément éssentiel si on ne fait qu'un ou deux cycles.
-Cependant, le prototypage étant un exercice assez intense, la fatigue peut rendre moins éfficace à terme, il faut donc prendre ses précautions en mettant du temps de prep de coté pour 
+Cependant, le prototypage étant un exercice assez intense, la fatigue peut rendre moins éfficace à terme, il faut donc prendre ses précautions en mettant du temps de prep de coté pour éviter l'épuisement et maintenir ses facultés.
