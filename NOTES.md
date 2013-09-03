@@ -52,6 +52,7 @@
   3. Création AdHoc d'un prototype
   4. Phase de test
   5. Rincer/Répéter ou passer en production?
-2. Avoir des assets "neutres"
+2. Feuille de questions
+3. Avoir des assets "neutres"
   1. Un visuel propre et codifié
   2. Resister à l'envie de faire du "beau"

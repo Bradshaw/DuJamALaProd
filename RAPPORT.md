@@ -7,71 +7,9 @@ Protowiping
 [Map in creation for TF2](http://forums.tf2maps.net/showthread.php?t=5196)
 
 
+## Building
 
-## Segments
-
-### Formalisation du prototypage
-
-#### La Feuille de prototype
-
-> Concept:   
-> Proposition:   
-> Restrictions:   
-> Technologies à utiliser:   
-> Temps de developement:   
-> Temps de test:   
-> Nombre de testeurs:   
-> Résultat:   
-> Verdict:   
-
-Exemple:
-
-> Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être intéressant*   
-> Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*   
-> Restrictions: Doit être jouable sur Kinect   
-> Technologies à utiliser: *Unity3D*   
-> Temps de developement: *Une semaine*   
-> Temps de test: *Une journée*   
-> Nombre de testeurs: *Quatre*   
-> Résultat: *Les joueurs aiment la sensation de vitesse, mais perdent rapidement le contrôle, et n'arrivent pas à retrouver le chemin*   
-> Verdict: *Reprototypage à faire: Auto-piloter le joueur en cas de sortie de chemin*      
-
-
-#### La feuille de questions
-
-Les questions ne sont pas à poser aux testeurs, mais c'est au développeur de chercher à y répondre en observant le comportement des joueurs.
-
-Les questions doivent être définies avant la création du prototype, puisque le prototype est conçu pour trouver des réponses à ces questions.
-
-Dans l'example ci-dessus:
-
-> ##### Est-ce que les joueurs comprennent le méchanisme?   
-> Oui, c'est assez simple, il n'y a que deux axes à gérer    
-> Cependant, les commandes Kinect ne sont pas intuitives
-
-> ##### Est-ce que les joueurs arrivent à contrôler efficacement le personnage?   
-> Non, les commandes Kinect ne sont pas adaptées
-> Parfois les joueurs s'écartent de la piste et se perdent
-
-> ##### Est-ce que les joueurs ont la sensation de vitesse?   
-> Oui, quand ils arrivent à jouer, ils ont l'impression d'aller même trop vite, mais réussissent tout de même à continuer
-
-> ##### Quel est le degré de difficulté?   
-> Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.
-
-
-
-
-#### Assets neutres
-
-![cp_orange_hideout](http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg)
-
-Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et éxistent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
-
-
-
-
-### Pourquoi une idée peut ne pas marcher, et comment réagir...
+### 1/ Prototyper pour valider ses idées
 
 #### Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
 
@@ -105,9 +43,73 @@ La cible grand public appréciera plutôt un jeu qui introduit sa complexité pl
 
 
 
-### Organiser son cycle de prototypage
+### 2/ Prototyper pour trouver de nouvelles idées
 
-#### Proposition - [25%|50%|25%]
+
+
+### 3/ Coûts du prototypage: Fatigue et sentiment d'inutilité
+
+
+
+### 4/ Optimiser la valeur, Diminuer le coût
+
+#### 1. La Feuille de prototype
+
+> Concept:   
+> Proposition:   
+> Restrictions:   
+> Technologies à utiliser:   
+> Temps de developement:   
+> Temps de test:   
+> Nombre de testeurs:   
+> Résultat:   
+> Verdict:   
+
+Exemple:
+
+> Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être intéressant*   
+> Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*   
+> Restrictions: Doit être jouable sur Kinect   
+> Technologies à utiliser: *Unity3D*   
+> Temps de developement: *Une semaine*   
+> Temps de test: *Une journée*   
+> Nombre de testeurs: *Quatre*   
+> Résultat: *Les joueurs aiment la sensation de vitesse, mais perdent rapidement le contrôle, et n'arrivent pas à retrouver le chemin*   
+> Verdict: *Reprototypage à faire: Auto-piloter le joueur en cas de sortie de chemin*      
+
+
+#### 2. La feuille de questions
+
+Les questions ne sont pas à poser aux testeurs, mais c'est au développeur de chercher à y répondre en observant le comportement des joueurs.
+
+Les questions doivent être définies avant la création du prototype, puisque le prototype est conçu pour trouver des réponses à ces questions.
+
+Dans l'example ci-dessus:
+
+> ##### Est-ce que les joueurs comprennent le méchanisme?   
+> Oui, c'est assez simple, il n'y a que deux axes à gérer    
+> Cependant, les commandes Kinect ne sont pas intuitives
+
+> ##### Est-ce que les joueurs arrivent à contrôler efficacement le personnage?   
+> Non, les commandes Kinect ne sont pas adaptées
+> Parfois les joueurs s'écartent de la piste et se perdent
+
+> ##### Est-ce que les joueurs ont la sensation de vitesse?   
+> Oui, quand ils arrivent à jouer, ils ont l'impression d'aller même trop vite, mais réussissent tout de même à continuer
+
+> ##### Quel est le degré de difficulté?   
+> Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.
+
+
+
+
+#### 3. Assets neutres
+
+![cp_orange_hideout](http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg)
+
+Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et éxistent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
+
+#### 4. Proposition - [25%|50%|25%]
 
 ##### Step wan: Prep (25%)
 S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.
@@ -140,3 +142,6 @@ Les cycles courts peuvent être utilisés pour tester des gameplays simples ou d
 
 La période prep est utile pour se vider l'esprit avant d'attaquer le prototype, ce n'est pas forcément éssentiel si on ne fait qu'un ou deux cycles.
 Cependant, le prototypage étant un exercice assez intense, la fatigue peut rendre moins éfficace à terme, il faut donc prendre ses précautions en mettant du temps de prep de coté pour éviter l'épuisement et maintenir ses facultés.
+
+
+
