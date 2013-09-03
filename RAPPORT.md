@@ -54,9 +54,15 @@ Pour qu'un prototype soit utile, il faut qu'il soit créé rapidement, c'est à 
 
 ###### *Pourquoi coder si c'est pour tout jeter?*
 
-Des prototypes de jeux sont finalement quasiment des jeux complets, et ont consommés beaucoup d'effort à la création, on est donc facilement tenté de conserver le prototype tel quel et l'utiliser comme base de production.
+Des prototypes de jeux sont finalement quasiment des jeux complets, et ont consommés beaucoup d'effort à la création, on est donc facilement tenté de conserver le prototype tel quel et l'utiliser comme base de production. Le problème c'est que développer dans cet état d'esprit risque de ralentir le cycle de prototype, et devient problèmatique lorsqu'on s'attache à son code alors qu'il ne sera peut-être pas utilisé.
+Pendant les cycles de prototypage, il faut donc encourager une culture de programmation rapide et ad-hoc. Il faut être dans l'idée que le code ne sera pas réutilisé sous cette forme. Dans tous les cas, le code n'est censé représenter au maximum qu'une semaine de travail, et donc devoir reprogrammer ne coûte que peu de temps.
 
 ###### *Pourquoi la plupart de mes idées finissent par être rejetées?*
+
+Le meilleur prototype est celui qui rejette une idée, qui falsifie ses idées pré-conçues, et remet en question la direction qu'on comptait prendre.
+Par conséquent, le meilleur prototype est celui qu'on jette à la poubelle dès qu'on l'a testé.
+Ceci peut mener à un manque de motivation lorsqu'on se rend compte de certaines, voir parfois la plupart de ses idées et de son temps de développement sera simplement classé et rangé "sans suite". Pour qu'une période de prototypage se déroule agréablement et efficacement, il faut réduire cet état d'esprit, et promouvoir l'idée que ce temps "perdu" est réelement un gain. Cet effort se traduit à la longue à un gain de temps, d'argent et de qualité de produit final.
+Il est donc important d'inclure dans la méthodologie des mechanismes qui permettent au developpeur de pouvoir constater rapidement l'intérêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.
 
 
 ### 3/ Optimiser la valeur, Diminuer le coût
