@@ -7,8 +7,6 @@
 1. Faire des hypothèses c'est bien, les tester c'est mieux
   1. On pense savoir ce qui fait un bon design
   2. Parfois un bonne idée est difficile à communiquer
-    + Aux autres devs
-    + Aux joueurs
   3. Parfois une bonne idée ne l'est pas tant que ça
 2. Un prototype de validation doit répondre à des questions simples
   1. Est-ce compréhensible?
@@ -43,20 +41,17 @@
   3. Peu de vision à l'avenir = difficulté de motivation
 2. Sentiment d'inutilité
   1. Un bon prototype est crée pour être jeté
-    + Un proto qu'on ne jète pas souffre facilement de conception "spaghetti"
-    + Avoir une vision d'avenir sur du proto ralentit son développement
   2. Pourquoi coder si c'est pour tout jeter?
   3. Pourquoi la plupart de mes idée finissent par être rejetées?
 
 ### Optimiser la valeur, Diminuer le coût
 
-1. Formaliser le processus de prototypage
-  1. Feuille de prototype
-    + Hypothèse à vérifier / Concept à explorer
-    + Proposition de prototype
-    + Création AdHoc d'un prototype
-    + Phase de test
-    + Rincer/Répéter ou passer en production?
-  2. Avoir des assets "neutres"
-    + Un visuel propre et codifié
-    + Resister à l'envie de faire du "beau"
+1. Feuille de prototype
+  1. Hypothèse à vérifier / Concept à explorer
+  2. Proposition de prototype
+  3. Création AdHoc d'un prototype
+  4. Phase de test
+  5. Rincer/Répéter ou passer en production?
+2. Avoir des assets "neutres"
+  1. Un visuel propre et codifié
+  2. Resister à l'envie de faire du "beau"
