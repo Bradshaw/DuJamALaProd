@@ -4,44 +4,44 @@
 
 ### Prototyper pour valider ses idées
 
-1 Faire des hypothèses c'est bien, les tester c'est mieux
+1. Faire des hypothèses c'est bien, les tester c'est mieux
   + On pense savoir ce qui fait un bon design
   + Parfois un bonne idée est difficile à communiquer
     + Aux autres devs
     + Aux joueurs
   + Parfois une bonne idée ne l'est pas tant que ça
-2 Un prototype de validation doit répondre à des questions simples
+2. Un prototype de validation doit répondre à des questions simples
   + Est-ce compréhensible?
   + Est-ce intuitif?
   + Est-ce trop facile / trop dur?
   + Est-ce amusant?
-3 Une validation est un "OUI" à toutes ces questions
-4 Un reprototypage est utile si on a des "OUI, mais..." ou quelques "NON"
+3. Une validation est un "OUI" à toutes ces questions
+4. Un reprototypage est utile si on a des "OUI, mais..." ou quelques "NON"
   + Comment mieux communiquer l'idée aux devs?
   + Comment mieux communiquer l'idée aux joueurs?
   + Comment rendre plus accéssible ou construire des challenges?
   + Est-ce que le potentiel d'amusement est simplement mal exploité?
-5 un prototype est rejeté s'il n'y a pas de réponses concrètes à ces questions.
+5. un prototype est rejeté s'il n'y a pas de réponses concrètes à ces questions.
 
 ### Prototyper pour trouver de nouvelles idées
 
-1 Pendant des phases de prototypage, sortir si possible de ses habitudes.
+1. Pendant des phases de prototypage, sortir si possible de ses habitudes.
   + Utiliser une technologie nouvelle
   + Imiter des éléments d'un autre jeu
   + Mélanger genres et concepts
-2 Confronter son prototype aux regards
+2. Confronter son prototype aux regards
   + " Ce serait sympa si ... "
   + " Pourquoi ça fait ...? "
   + Tout noter, comment tester ces suggestions?
-3 Reprototyper avec les suggestions
+3. Reprototyper avec les suggestions
 
 ### Coûts du prototypage: Fatigue et sentiment d'inutilité
 
-1 Fatigue
+1. Fatigue
   + Prototyper c'est un travail "intense"
   + De la conception en continu
   + Peu de vision à l'avenir = difficulté de motivation
-2 Sentiment d'inutilité
+2. Sentiment d'inutilité
   + Un bon prototype est crée pour être jeté
     + Un proto qu'on ne jète pas souffre facilement de conception "spaghetti"
     + Avoir une vision d'avenir sur du proto ralentit son développement
@@ -50,7 +50,7 @@
 
 ### Optimiser la valeur, Diminuer le coût
 
-1 Formaliser le processus de prototypage
+1. Formaliser le processus de prototypage
   + Feuille de prototype
     + Hypothèse à vérifier / Concept à explorer
     + Proposition de prototype
