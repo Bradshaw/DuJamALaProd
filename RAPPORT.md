@@ -57,6 +57,8 @@ Voici quelques choses qu'on peut faire pendant cette période:
 + Tester d'autres jeux similaires (pas trop de temps à l'écran si possible)
 + Lire livres et bandes-déssinées
 + Se promener en écoutant de la musique
+Cette période ne doit bien sûr pas prendre le dessus sur le travail, mais formaliser le besoin de réflechir à autre chose et changer d'air permet d'éviter d'arriver à court de motivation et d'inspiration.
+
 
 #### 2. Sentiment d'inutilité
 
