@@ -9,9 +9,27 @@ Protowiping
 
 ## Building
 
-### 1/ Prototyper pour valider ses idées
+### 1/ Pourquoi prototyper?
 
-#### 1. Certaines idées fonctionnent tout simplement pas lorsqu'ils sont testés.
+#### 1. Trouver une direction et éviter les pièges
+
+L'ésprit du développeur du jeu est une machine à travers laquelle filtrent des centaines ou des milliers d'idées, terriblement efficace et polyvalent, il présente tout de même des désavantages.
+
+##### Même celui qui n'est pas tout seul dans sa tête ne peut pas inviter tout le monde
+
+Lorsqu'on pense à une idée ou un concept, il faut se rendre compte que cette idée est au moins en partie compréhensible seulement parce qu'on est celui qui l'a imaginé. A moins d'être capable de communiquer l'intégralité de sa culture et de ses connaissances, il y a la possibilité que ses collègues et que ses testeurs ne comprennent tout simplement pas.
+
+##### *"Mais dans ma tête ça marchait bien"*
+
+L'imagination humaine est basée sur notre connaissance du monde réel, mais n'est finalement pas une bonne représentation de celle-ci. Par conséquent, il arrive qu'on imagine quelque chose qui paraît très intéressant, et tant qu'on reste dans le domaine de l'imaginaire, on n'en voit pas les limites.
+
+##### Prototyper pour ne pas être victime de ses propres défauts
+
+Le but du prototypage est de rapidement se confronter à la plupart des problèmes qui peuvent se mettre en travers du chemin d'un bon jeu. Que ce soit en écartant les fausses bonnes idées ou en repérant les limites du concept qu'on cherche à exploiter.
+Aussi, prototyper une idée permet de mieux la communiquer à ses collègues et s'assurer que chacun a compris la direction que le concepteur imagine.
+
+
+#### 2. Exemple: Une bonne idée qui ne l'est pas
 
 Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
 
@@ -22,7 +40,7 @@ Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de
 Un minimum de playtest, en se posant les bonnes questions, auraient peut-être suffi à remettre en question un design prometteur mais bancal.
 
 
-#### 2. Il est difficile de communiquer certains concepts
+#### 3. Exemple: Une bonne idée que personne ne comprend
 
 Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitif et donc difficile à communiquer éfficacement au joueur.
 
@@ -32,6 +50,7 @@ Pour résoudre ces problèmes, on peut soit fournir un tutoriel ou des explicati
 
 ![Dwarf Fortress: Je vois pas le problème](http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg)  
 *Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore*  
+
 ![Rymdkapsel: Déjà c'est plus clair](https://lh3.ggpht.com/MK0sMPxnzvPFxE-YsW1GZeGKv6TJsyps9ucO-trna9n6xT_zrYgJocWYEB-AeADDkQ=h900)  
 *Rymdkapsel: Le base-building pour tous*  
 
