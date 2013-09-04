@@ -16,7 +16,7 @@ Protowiping
 Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
 
 ![Où est-il?](http://i882.photobucket.com/albums/ac26/Hayabusa85Screens/Shattered%20Horizon/shattered_horizon2009-12-0215-45-28.jpg)
-*Où est l'ennemi? Si ça se trouve il est au-dessus ou en-dessous...*
+*Shattered Horizon: Où est l'ennemi? Si ça se trouve il est au-dessus ou en-dessous...*
 
 Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de direction et de stratégie, et on se retrouve dans des fusillades désordonnées, il devient difficile de comprendre d'où le danger vient, et les adversaires qu'on arrive à toucher ne sont généralement pas conscients de notre position, et ne peuvent donc pas réagir en conséquence.
 Un minimum de playtest, en se posant les bonnes questions, auraient peut-être suffi à remettre en question un design prometteur mais bancal.
@@ -61,7 +61,7 @@ Pendant les cycles de prototypage, il faut donc encourager une culture de progra
 
 Le meilleur prototype est celui qui rejette une idée, qui falsifie ses idées pré-conçues, et remet en question la direction qu'on comptait prendre.
 Par conséquent, le meilleur prototype est celui qu'on jette à la poubelle dès qu'on l'a testé.
-Ceci peut mener à un manque de motivation lorsqu'on se rend compte de certaines, voir parfois la plupart de ses idées et de son temps de développement sera simplement classé et rangé "sans suite". Pour qu'une période de prototypage se déroule agréablement et efficacement, il faut réduire cet état d'esprit, et promouvoir l'idée que ce temps "perdu" est réelement un gain. Cet effort se traduit à la longue à un gain de temps, d'argent et de qualité de produit final.
+Ceci peut mener à un manque de motivation lorsqu'on se rend compte que certaines, voir parfois la plupart de ses idées et de son temps de développement sera simplement classé et rangé "sans suite". Pour qu'une période de prototypage se déroule agréablement et efficacement, il faut réduire cet état d'esprit, et promouvoir l'idée que ce temps "perdu" est réelement un gain. Cet effort se traduit à la longue à un gain de temps, d'argent et de qualité de produit final.
 Il est donc important d'inclure dans la méthodologie des mechanismes qui permettent au developpeur de pouvoir constater rapidement l'intérêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.
 
 
@@ -73,7 +73,7 @@ Il est donc important d'inclure dans la méthodologie des mechanismes qui permet
 > Proposition:   
 > Restrictions:   
 > Technologies à utiliser:   
-> Temps de developement:   
+> Temps de cycle:   
 > Temps de test:   
 > Nombre de testeurs:   
 > Résultat:   
@@ -83,9 +83,9 @@ Exemple:
 
 > Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être intéressant*   
 > Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*   
-> Restrictions: Doit être jouable sur Kinect   
+> Restrictions: *Doit être jouable sur Kinect*   
 > Technologies à utiliser: *Unity3D*   
-> Temps de developement: *Une semaine*   
+> Temps de cycle: *Une semaine*   
 > Temps de test: *Une journée*   
 > Nombre de testeurs: *Quatre*   
 > Résultat: *Les joueurs aiment la sensation de vitesse, mais perdent rapidement le contrôle, et n'arrivent pas à retrouver le chemin*   
@@ -130,23 +130,28 @@ S'imbiber de références et noter des idées. Se promener en ville ou à la cam
 
 ##### Step too: Dev (50%)
 Se mettre en mode "jam", trouver rapidement une idée à exploiter, et remplir la feuille de prototype ainsi que la feuille de questions.
-Créer le prototype.
-Le jeu doit être jouable et présenter clairement le concept.
-Tout autre élément est à laisser si ça n'aide pas à comprendre et évaluer le concept.
-Graphismes minimum (utiliser un pack d'asset standards)
-Pas d'histoire
-Compteur de score et de vies uniquement pour encourager le gameplay recherché
++ Créer le prototype.
++ Le jeu doit être jouable et présenter clairement le concept.
++ Tout autre élément est à laisser si ça n'aide pas à comprendre et évaluer le concept.
++ Graphismes minimum (utiliser un pack d'asset standards)
++ Pas d'histoire
++ Compteur de score et de vies uniquement pour encourager le gameplay recherché
 
 ##### Step tree: Test (25%)
 Faire jouer le prototype au maximum de gens:
-+ Explique les règles
-+ Explique que le joueur doit parler en jouant
++ Expliquer les règles
++ Expliquer que le joueur doit parler en jouant
 + Pendant que le joueur joue, ne pas répondre s'il pose des questions ou fait des remarques
++ Un court entretien, discuter des experiences de jeu avec le testeur
++ Guider la conversation vers les sujets abordées par les questions
++ Ecouter tout de même les remarques "hors sujet" du testeur et les noter
++ Pendant l'entretien, laisser le jeu lancé et disponible pour l'encourager à montrer ce qu'il veut expliquer
++ Noter s'il rejoue naturellement par lui-même
++ Ne pas lui prendre la manette
 + Après la session, répondre aux questions décidées sur la feuille de questions.
-+ Pendant l'entretien, laisser le jeu lancé et disponible
 
 Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
-Décider des modalités de la prochaine étape (Reprototypage, nouveau concept ou passage en production)
+Décider des modalités de la prochaine étape (Nouveau cycle de prototypage ou passage en production)
 
 #### 5. Durée
 
