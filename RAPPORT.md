@@ -47,6 +47,16 @@ La cible grand public appréciera plutôt un jeu qui introduit sa complexité pl
 #### 1. Fatigue
 
 L'activité de prototypage est particulièrement cérébral, et si on est dans des phases de prototypage rapide sous forme de jam, on peut facilement se sentir épuisé ou à court de motivation.
+Continuer à prototyper dans cet état est rapidement contre-productif. Il faut prendre garde à éviter et detecter la situation d'épuisement.
+
+##### Périodes de réflexion
+
+Dans le processus de prototypage, on doit mettre en place des périodes ou scéances où on prend du temps pour avoir une activité différente.
+Voici quelques choses qu'on peut faire pendant cette période:
++ Socialiser, rencontrer des gens et discuter du sujet en question
++ Tester d'autres jeux similaires (pas trop de temps à l'écran si possible)
++ Lire livres et bandes-déssinées
++ Se promener en écoutant de la musique
 
 #### 2. Sentiment d'inutilité
 
