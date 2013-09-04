@@ -5,6 +5,7 @@ Protowiping
 ## Ressources
 [Brian van Bruggen on rapid prototyping for games](http://www.brianvanbruggen.com/?page=rapid_prototyping)   
 [Map in creation for TF2](http://forums.tf2maps.net/showthread.php?t=5196)
+[The upside of failing](http://www.youtube.com/watch?v=ipbkRxIiWaM)
 
 
 ## Building
