@@ -101,7 +101,34 @@ Il est donc important d'inclure dans la méthodologie des mechanismes qui permet
 
 ### 3/ Optimiser la valeur, Diminuer le coût
 
-#### 1. La Feuille de prototype
+#### 1. La feuille de contexte
+
+> Cible:
+> Plateformes:
+> Modes d'intéraction:
+> Références:
+
+
+
+#### 2. La feuille de questions
+
+Exemple:
+
+> ##### Est-ce que les joueurs comprennent le méchanisme?   
+> Oui, c'est assez simple, il n'y a que deux axes à gérer    
+> Cependant, les commandes Kinect ne sont pas intuitives
+
+> ##### Est-ce que les joueurs arrivent à contrôler efficacement le personnage?   
+> Non, les commandes Kinect ne sont pas adaptées
+> Parfois les joueurs s'écartent de la piste et se perdent
+
+> ##### Est-ce que les joueurs ont la sensation de vitesse?   
+> Oui, quand ils arrivent à jouer, ils ont l'impression d'aller même trop vite, mais réussissent tout de même à continuer
+
+> ##### Quel est le degré de difficulté?   
+> Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.
+
+#### 3. La Feuille de prototype
 
 > Concept:   
 > Proposition:   
@@ -126,39 +153,16 @@ Exemple:
 > Verdict: *Reprototypage à faire: Auto-piloter le joueur en cas de sortie de chemin*      
 
 
-#### 2. La feuille de questions
-
-Les questions ne sont pas à poser aux testeurs, mais c'est au développeur de chercher à y répondre en observant le comportement des joueurs.
-
-Les questions doivent être définies avant la création du prototype, puisque le prototype est conçu pour trouver des réponses à ces questions.
-
-Dans l'example ci-dessus:
-
-> ##### Est-ce que les joueurs comprennent le méchanisme?   
-> Oui, c'est assez simple, il n'y a que deux axes à gérer    
-> Cependant, les commandes Kinect ne sont pas intuitives
-
-> ##### Est-ce que les joueurs arrivent à contrôler efficacement le personnage?   
-> Non, les commandes Kinect ne sont pas adaptées
-> Parfois les joueurs s'écartent de la piste et se perdent
-
-> ##### Est-ce que les joueurs ont la sensation de vitesse?   
-> Oui, quand ils arrivent à jouer, ils ont l'impression d'aller même trop vite, mais réussissent tout de même à continuer
-
-> ##### Quel est le degré de difficulté?   
-> Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.
 
 
-
-
-#### 3. Assets neutres
+#### 4. Assets neutres
 
 ![cp_orange_hideout](http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg)   
 <sup>*Team Fortress 2: Une carte avec des assets neutres*</sup>
 
 Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et éxistent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
 
-#### 4. Proposition - [25%|50%|25%]
+#### 5. Proposition - [25%|50%|25%]
 
 ##### Step wan: Prep (25%)
 S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.
@@ -188,7 +192,7 @@ Faire jouer le prototype au maximum de gens:
 Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
 Décider des modalités de la prochaine étape (Nouveau cycle de prototypage ou passage en production)
 
-#### 5. Durée
+#### 6. Durée
 
 Ce cycle peut être sur un laps de temps allant de 4 jours (1 jour prep, 2 jours dev, 1 jour test) à deux semaines (fin de semaine prep, une semaine dev, début de la semaine test, à enchaîner derrière).
 
