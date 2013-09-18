@@ -23,7 +23,7 @@ Lorsqu'on pense à une idée ou un concept, il faut se rendre compte que cette i
 
 ##### *"Mais dans ma tête ça marchait bien"*
 
-L'imagination humaine est basée sur notre connaissance du monde réel, mais n'est finalement pas une bonne représentation de celle-ci. Par conséquent, il arrive qu'on imagine quelque chose qui paraît très intéressant, et tant qu'on reste dans le domaine de l'imaginaire, on n'en voit pas les limites.
+L'imagination humaine est basée sur notre connaissance du monde réel, mais n'est finalement pas une bonne représentation de celle-ci. Par conséquent, il arrive qu'on imagine quelque chose qui paraît très interessant, et tant qu'on reste dans le domaine de l'imaginaire, on n'en voit pas les limites.
 
 ##### Prototyper pour ne pas être victime de ses propres défauts
 
@@ -44,7 +44,7 @@ Un minimum de playtest, en se posant les bonnes questions, auraient peut-être s
 
 #### 3. Exemple: Une bonne idée que personne ne comprend
 
-Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitive et donc difficile à communiquer efficacement au joueur.
+Parfois une idée peut-être bonne, et offrir un gameplay interessant, mais être un peu contre-intuitive et donc difficile à communiquer efficacement au joueur.
 
 Deux raisons peuvent exister, soit le mécanisme est inhabituel ou en-dehors de la culture du joueur, soit le mécanisme est trop complexe et nécessite un apprentissage pour être maîtrisable.
 
@@ -85,7 +85,7 @@ Cette période ne doit bien sûr pas prendre le dessus sur le travail, mais form
 
 #### 2. Sentiment d'inutilité
 
-Pour qu'un prototype soit utile, il faut qu'il soit créé rapidement, c'est à dire souvent sans trop de considération pour un code réutilisable. Aussi, l'intérêt du prototypage étant de valider ou rejeter des idées, un prototype se retrouve souvent jeté à la poubelle. On se retrouve donc à écrire des programmes entier qui ne seront souvent jamais utilisés, et même s'ils sont réutilisées, ça ne sera qu'après un refactor, ou préférablement une réécriture.
+Pour qu'un prototype soit utile, il faut qu'il soit créé rapidement, c'est à dire souvent sans trop de considération pour un code réutilisable. Aussi, l'interêt du prototypage étant de valider ou rejeter des idées, un prototype se retrouve souvent jeté à la poubelle. On se retrouve donc à écrire des programmes entier qui ne seront souvent jamais utilisés, et même s'ils sont réutilisées, ça ne sera qu'après un refactor, ou préférablement une réécriture.
 
 ###### *Pourquoi coder si c'est pour tout jeter?*
 
@@ -97,7 +97,7 @@ Pendant les cycles de prototypage, il faut donc encourager une culture de progra
 Le meilleur prototype est celui qui rejette une idée, qui falsifie ses idées pré-conçues, et remet en question la direction qu'on comptait prendre.
 Par conséquent, le meilleur prototype est celui qu'on jette à la poubelle dès qu'on l'a testé.
 Ceci peut mener à un manque de motivation lorsqu'on se rend compte que certaines, voir parfois la plupart de ses idées et de son temps de développement sera simplement classé et rangé "sans suite". Pour qu'une période de prototypage se déroule agréablement et efficacement, il faut réduire cet état d'esprit, et promouvoir l'idée que ce temps "perdu" est réelement un gain. Cet effort se traduit à la longue à un gain de temps, d'argent et de qualité de produit final.
-Il est donc important d'inclure dans la méthodologie des mécanismes qui permettent au developpeur de pouvoir constater rapidement l'intérêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.
+Il est donc important d'inclure dans la méthodologie des mécanismes qui permettent au developpeur de pouvoir constater rapidement l'interêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.
 
 
 ### 3/ Optimiser la valeur, Diminuer le coût
@@ -106,7 +106,7 @@ Il est donc important d'inclure dans la méthodologie des mécanismes qui permet
 
 > Cible:   
 > Plateformes:   
-> Modes d'intéraction:   
+> Modes d'interaction:   
 > Références:   
 
 
@@ -143,7 +143,7 @@ Exemple:
 
 Exemple:
 
-> Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être intéressant*   
+> Concept: *Voler et aller vite sont kinesthetiquement plaisants, et rendre ce gameplay simple et accessible peut être interessant*   
 > Proposition: *Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur*   
 > Restrictions: *Doit être jouable sur Kinect*   
 > Technologies à utiliser: *Unity3D*   
@@ -166,7 +166,7 @@ Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permet
 #### 5. Proposition - [25%|50%|25%]
 
 ##### Step wan: Prep (25%)
-S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.
+S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées interessantes sur papier libre.
 
 ##### Step too: Dev (50%)
 Se mettre en mode "jam", trouver rapidement une idée à exploiter, et remplir la feuille de prototype ainsi que la feuille de questions.
