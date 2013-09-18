@@ -15,11 +15,11 @@ Protowiping
 
 #### 1. Trouver une direction et éviter les pièges
 
-L'ésprit du développeur du jeu est une machine à travers laquelle filtrent des centaines ou des milliers d'idées, terriblement efficace et polyvalent, il présente tout de même des désavantages.
+L'ésprit d'un développeur de jeu est une machine à travers laquelle filtrent des centaines ou des milliers d'idées, terriblement efficace et polyvalent, il présente tout de même des désavantages.
 
 ##### Même celui qui n'est pas tout seul dans sa tête ne peut pas inviter tout le monde
 
-Lorsqu'on pense à une idée ou un concept, il faut se rendre compte que cette idée est au moins en partie compréhensible seulement parce qu'on est celui qui l'a imaginé. A moins d'être capable de communiquer l'intégralité de sa culture et de ses connaissances, il y a la possibilité que ses collègues et que ses testeurs ne comprennent tout simplement pas.
+Lorsqu'on pense à une idée ou un concept, il faut se rendre compte que cette idée est au moins en partie compréhensible seulement parce qu'on est celui qui l'a imaginé. A moins d'être capable de communiquer l'intégralité de sa culture et de ses connaissances, il y a la possibilité que les collègues et les joueurs ne comprennent tout simplement pas.
 
 ##### *"Mais dans ma tête ça marchait bien"*
 
@@ -33,7 +33,7 @@ Aussi, prototyper une idée permet de mieux la communiquer à ses collègues et 
 
 #### 2. Exemple: Une bonne idée qui ne l'est pas
 
-Un éxemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
+Un exemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
 
 ![Où est-il?](http://i882.photobucket.com/albums/ac26/Hayabusa85Screens/Shattered%20Horizon/shattered_horizon2009-12-0215-45-28.jpg)   
 <sup>*Shattered Horizon: Où est l'ennemi? Si ça se trouve il est au-dessus ou en-dessous...*</sup>
@@ -48,7 +48,7 @@ Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais êt
 
 Deux raisons peuvent éxister, soit le méchanisme est inhabituel ou en-dehors de la culture du joueur, soit le mechanisme est trop complexe et nécéssite un apprentissage pour être maîtrisable.
 
-Pour résoudre ces problèmes, on peut soit fournir un tutoriel ou des explications, soit revoir les mechanismes afin de simplifier ou rapprocher d'un gameplay plus familier.
+Il faut détecter ce problème rapidement, afin de déterminer une solution à appliquer pendant le développement, comme un tutorial, ou mieux, une refonte ou une simplification des mechanismes de jeu.
 
 ![Dwarf Fortress: Je vois pas le problème](http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg)   
 <sup>*Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore*</sup>   
@@ -69,7 +69,7 @@ La cible grand public appréciera plutôt un jeu qui introduit sa complexité pl
 #### 1. Fatigue
 
 L'activité de prototypage est particulièrement cérébral, et si on est dans des phases de prototypage rapide sous forme de jam, on peut facilement se sentir épuisé ou à court de motivation.
-Continuer à prototyper dans cet état est rapidement contre-productif. Il faut prendre garde à éviter et detecter la situation d'épuisement.
+Continuer à prototyper dans cet état est rapidement contre-productif. Il faut prendre garde à éviter la situation d'épuisement. Une solution possible est d'entrecouper les cycles de prototypage avec des périodes de réflexion
 
 ##### Périodes de réflexion
 
@@ -104,10 +104,10 @@ Il est donc important d'inclure dans la méthodologie des mechanismes qui permet
 
 #### 1. La feuille de contexte
 
-> Cible:
-> Plateformes:
-> Modes d'intéraction:
-> Références:
+> Cible:   
+> Plateformes:   
+> Modes d'intéraction:   
+> Références:   
 
 
 
@@ -187,7 +187,7 @@ Faire jouer le prototype au maximum de gens:
 + Ecouter tout de même les remarques "hors sujet" du testeur et les noter
 + Pendant l'entretien, laisser le jeu lancé et disponible pour l'encourager à montrer ce qu'il veut expliquer
 + Noter s'il rejoue naturellement par lui-même
-+ Ne pas lui prendre la manette
++ Ne jamais lui prendre la manette
 + Après la session, répondre aux questions décidées sur la feuille de questions.
 
 Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
