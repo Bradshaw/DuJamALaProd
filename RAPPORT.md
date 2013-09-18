@@ -15,7 +15,7 @@ Protowiping
 
 #### 1. Trouver une direction et éviter les pièges
 
-L'ésprit d'un développeur de jeu est une machine à travers laquelle filtrent des centaines ou des milliers d'idées, terriblement efficace et polyvalent, il présente tout de même des désavantages.
+L'esprit d'un développeur de jeu est une machine à travers laquelle filtrent des centaines ou des milliers d'idées. Terriblement efficace et polyvalent, il présente tout de même des désavantages.
 
 ##### Même celui qui n'est pas tout seul dans sa tête ne peut pas inviter tout le monde
 
@@ -28,12 +28,12 @@ L'imagination humaine est basée sur notre connaissance du monde réel, mais n'e
 ##### Prototyper pour ne pas être victime de ses propres défauts
 
 Le but du prototypage est de rapidement se confronter à la plupart des problèmes qui peuvent se mettre en travers du chemin d'un bon jeu. Que ce soit en écartant les fausses bonnes idées ou en repérant les limites du concept qu'on cherche à exploiter.
-Aussi, prototyper une idée permet de mieux la communiquer à ses collègues et s'assurer que chacun a compris la direction que le concepteur imagine.
+Aussi, prototyper une idée permet de mieux la communiquer à ses collègues et de s'assurer que chacun a compris la direction que le concepteur imagine.
 
 
 #### 2. Exemple: Une bonne idée qui ne l'est pas
 
-Un exemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'ésprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
+Un exemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'esprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.
 
 ![Où est-il?](http://i882.photobucket.com/albums/ac26/Hayabusa85Screens/Shattered%20Horizon/shattered_horizon2009-12-0215-45-28.jpg)   
 <sup>*Shattered Horizon: Où est l'ennemi? Si ça se trouve il est au-dessus ou en-dessous...*</sup>
@@ -44,11 +44,11 @@ Un minimum de playtest, en se posant les bonnes questions, auraient peut-être s
 
 #### 3. Exemple: Une bonne idée que personne ne comprend
 
-Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitif et donc difficile à communiquer éfficacement au joueur.
+Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitive et donc difficile à communiquer efficacement au joueur.
 
-Deux raisons peuvent éxister, soit le méchanisme est inhabituel ou en-dehors de la culture du joueur, soit le mechanisme est trop complexe et nécéssite un apprentissage pour être maîtrisable.
+Deux raisons peuvent exister, soit le mécanisme est inhabituel ou en-dehors de la culture du joueur, soit le mécanisme est trop complexe et nécessite un apprentissage pour être maîtrisable.
 
-Il faut détecter ce problème rapidement, afin de déterminer une solution à appliquer pendant le développement, comme un tutorial, ou mieux, une refonte ou une simplification des mechanismes de jeu.
+Il faut détecter ce problème rapidement, afin de déterminer une solution à appliquer pendant le développement, comme un tutorial, ou mieux, une refonte ou une simplification des mécanismes de jeu.
 
 ![Dwarf Fortress: Je vois pas le problème](http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg)   
 <sup>*Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore*</sup>   
@@ -59,7 +59,7 @@ Il faut détecter ce problème rapidement, afin de déterminer une solution à a
 
 Dans ce cas, on a aussi une question de cible, un joueur "hardcore", qui sait dans quoi il s'engage, est prêt à faire l'effort de l'apprentissage d'une interface et un gameplay complexes, dans ce cas, simplifier les mechanismes est perçu comme une trahison. La niche visée par des jeux comme Dwarf Fortress apprécient la difficulté de l'interface.
 
-La cible grand public appréciera plutôt un jeu qui introduit sa complexité plus doucement, ceci n'est pas une question de difficulté pure, mais simplement de compréhension de méchanismes. Rymdkapsel est un éxemple de cet état d'esprit, en réduisant le jeu de stratégie à ces éléments les plus simples, on obtient un jeu facile d'accès où les joueurs peu expérimentés commencent rapidement à developper leurs tactiques.
+La cible grand public appréciera plutôt un jeu qui introduit sa complexité plus doucement, ceci n'est pas une question de difficulté pure, mais simplement de compréhension de méchanismes. Rymdkapsel est un exemple de cet état d'esprit, en réduisant le jeu de stratégie à ces éléments les plus simples, on obtient un jeu facile d'accès où les joueurs peu expérimentés commencent rapidement à developper leurs tactiques.
 
 Être conscient de la cible et choisir des testeurs qui corréspondent est un élément indispensable de la phase de prototypage. Tous les jeux ne sont pas pour tout le monde, par contre plus la cible est réduite, plus il faut être certain que sa cible apprécie le concept, donc obtenir une réaction positive claire très tôt dans le prototypage
 
@@ -97,7 +97,7 @@ Pendant les cycles de prototypage, il faut donc encourager une culture de progra
 Le meilleur prototype est celui qui rejette une idée, qui falsifie ses idées pré-conçues, et remet en question la direction qu'on comptait prendre.
 Par conséquent, le meilleur prototype est celui qu'on jette à la poubelle dès qu'on l'a testé.
 Ceci peut mener à un manque de motivation lorsqu'on se rend compte que certaines, voir parfois la plupart de ses idées et de son temps de développement sera simplement classé et rangé "sans suite". Pour qu'une période de prototypage se déroule agréablement et efficacement, il faut réduire cet état d'esprit, et promouvoir l'idée que ce temps "perdu" est réelement un gain. Cet effort se traduit à la longue à un gain de temps, d'argent et de qualité de produit final.
-Il est donc important d'inclure dans la méthodologie des mechanismes qui permettent au developpeur de pouvoir constater rapidement l'intérêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.
+Il est donc important d'inclure dans la méthodologie des mécanismes qui permettent au developpeur de pouvoir constater rapidement l'intérêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.
 
 
 ### 3/ Optimiser la valeur, Diminuer le coût
@@ -161,7 +161,7 @@ Exemple:
 ![cp_orange_hideout](http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg)   
 <sup>*Team Fortress 2: Une carte avec des assets neutres*</sup>
 
-Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et éxistent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
+Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que le joli. Ces assets sont disponibles facilement, ont une texture quadrillée et existent en différents couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façons codéfiées, par éxemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouges pour désigner les parties de la map qui appartiennent à l'une équipe ou l'autre. Les seuls éléments "artistiques" sont les portes, packs de munition et de vie, et points de contrôles. D'une part parce que ces éléments sont communs à tous les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier que ces objets sont "différents" et importants.
 
 #### 5. Proposition - [25%|50%|25%]
 
@@ -197,7 +197,7 @@ Décider des modalités de la prochaine étape (Nouveau cycle de prototypage ou 
 
 Ce cycle peut être sur un laps de temps allant de 4 jours (1 jour prep, 2 jours dev, 1 jour test) à deux semaines (fin de semaine prep, une semaine dev, début de la semaine test, à enchaîner derrière).
 
-Les cycles courts peuvent être utilisés pour tester des gameplays simples ou des améliorations de produits éxistants. Les cycles longs sont plus utiles pour le développement de prototypes de jeu "complets".
+Les cycles courts peuvent être utilisés pour tester des gameplays simples ou des améliorations de produits existants. Les cycles longs sont plus utiles pour le développement de prototypes de jeu "complets".
 
 La période prep est utile pour se vider l'esprit avant d'attaquer le prototype, ce n'est pas forcément éssentiel si on ne fait qu'un ou deux cycles.
 Cependant, le prototypage étant un exercice assez intense, la fatigue peut rendre moins éfficace à terme, il faut donc prendre ses précautions en mettant du temps de prep de coté pour éviter l'épuisement et maintenir ses facultés.
