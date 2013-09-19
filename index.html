@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Protowiping : Rapport et proposition sur le prototypage rapide de concepts de jeu video" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Protowiping</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/Bradshaw/DuJamALaProd">View on GitHub</a>
+
+          <h1 id="project_title">Protowiping</h1>
+          <h2 id="project_tagline">Rapport et proposition sur le prototypage rapide de concepts de jeu video</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/Bradshaw/DuJamALaProd/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/Bradshaw/DuJamALaProd/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a name="protowiping" class="anchor" href="#protowiping"><span class="octicon octicon-link"></span></a>Protowiping</h1>
+
+<h2>
+<a name="ressources" class="anchor" href="#ressources"><span class="octicon octicon-link"></span></a>Ressources</h2>
+
+<p><a href="https://www.youtube.com/watch?v=ISutk1mauPM">Jonathan Blow (Braid) on prototyping for indies</a><br><a href="http://www.brianvanbruggen.com/?page=rapid_prototyping">Brian van Bruggen on rapid prototyping for games</a><br><a href="http://forums.tf2maps.net/showthread.php?t=5196">Map in creation for TF2</a><br><a href="http://www.youtube.com/watch?v=ipbkRxIiWaM">The upside of failing</a>   </p>
+
+<h2>
+<a name="building" class="anchor" href="#building"><span class="octicon octicon-link"></span></a>Building</h2>
+
+<h3>
+<a name="1-pourquoi-prototyper" class="anchor" href="#1-pourquoi-prototyper"><span class="octicon octicon-link"></span></a>1/ Pourquoi prototyper?</h3>
+
+<h4>
+<a name="1-trouver-une-direction-et-%C3%A9viter-les-pi%C3%A8ges" class="anchor" href="#1-trouver-une-direction-et-%C3%A9viter-les-pi%C3%A8ges"><span class="octicon octicon-link"></span></a>1. Trouver une direction et éviter les pièges</h4>
+
+<p>L'esprit d'un développeur de jeu est une machine à travers laquelle filtrent des centaines ou des milliers d'idées. Terriblement efficace et polyvalent, il présente tout de même des désavantages.</p>
+
+<h5>
+<a name="m%C3%AAme-celui-qui-nest-pas-tout-seul-dans-sa-t%C3%AAte-ne-peut-pas-inviter-tout-le-monde" class="anchor" href="#m%C3%AAme-celui-qui-nest-pas-tout-seul-dans-sa-t%C3%AAte-ne-peut-pas-inviter-tout-le-monde"><span class="octicon octicon-link"></span></a>Même celui qui n'est pas tout seul dans sa tête ne peut pas inviter tout le monde</h5>
+
+<p>Lorsqu'on pense à une idée ou un concept, il faut se rendre compte que cette idée est au moins en partie compréhensible seulement parce qu'on est celui qui l'a imaginé. A moins d'être capable de communiquer l'intégralité de sa culture et de ses connaissances, il y a la possibilité que les collègues et les joueurs ne comprennent tout simplement pas.</p>
+
+<h5>
+<a name="mais-dans-ma-t%C3%AAte-%C3%A7a-marchait-bien" class="anchor" href="#mais-dans-ma-t%C3%AAte-%C3%A7a-marchait-bien"><span class="octicon octicon-link"></span></a><em>"Mais dans ma tête ça marchait bien"</em>
+</h5>
+
+<p>L'imagination humaine est basée sur notre connaissance du monde réel, mais n'est finalement pas une bonne représentation de celle-ci. Par conséquent, il arrive qu'on imagine quelque chose qui paraît très intéressant, et tant qu'on reste dans le domaine de l'imaginaire, on n'en voit pas les limites.</p>
+
+<h5>
+<a name="prototyper-pour-ne-pas-%C3%AAtre-victime-de-ses-propres-d%C3%A9fauts" class="anchor" href="#prototyper-pour-ne-pas-%C3%AAtre-victime-de-ses-propres-d%C3%A9fauts"><span class="octicon octicon-link"></span></a>Prototyper pour ne pas être victime de ses propres défauts</h5>
+
+<p>Le but du prototypage est de rapidement se confronter à la plupart des problèmes qui peuvent se mettre en travers du chemin d'un bon jeu. Que ce soit en écartant les fausses bonnes idées ou en repérant les limites du concept qu'on cherche à exploiter.
+Aussi, prototyper une idée permet de mieux la communiquer à ses collègues et de s'assurer que chacun a compris la direction que le concepteur imagine.</p>
+
+<h4>
+<a name="2-exemple-une-bonne-id%C3%A9e-qui-ne-lest-pas" class="anchor" href="#2-exemple-une-bonne-id%C3%A9e-qui-ne-lest-pas"><span class="octicon octicon-link"></span></a>2. Exemple: Une bonne idée qui ne l'est pas</h4>
+
+<p>Un exemple de jeu basé sur une idée qui parait bonne mais qui ne l'est finalement pas est Shattered Horizon. Dans Shattered Horizon, les développeurs ont proposé un shooter proche de Call of Duty, mais en apesanteur. Les degrés de liberté supplémentaires sont censés offrir des possibilités tactiques et stratégiques supplémentaires. Dans l'esprit du concepteur, le champ de bataille devient plus dynamique, il a trouvé une solution à la stagnation qui a atteint le genre du FPS.</p>
+
+<p><img src="http://i882.photobucket.com/albums/ac26/Hayabusa85Screens/Shattered%20Horizon/shattered_horizon2009-12-0215-45-28.jpg" alt="Où est-il?"><br><sup><em>Shattered Horizon: Où est l'ennemi? Si ça se trouve il est au-dessus ou en-dessous...</em></sup></p>
+
+<p>Mais en jeu, Shattered Horizon ennuit rapidement. Les batailles n'ont que peu de direction et de stratégie, et on se retrouve dans des fusillades désordonnées, il devient difficile de comprendre d'où le danger vient, et les adversaires qu'on arrive à toucher ne sont généralement pas conscients de notre position, et ne peuvent donc pas réagir en conséquence.
+Un minimum de playtest, en se posant les bonnes questions, auraient peut-être suffi à remettre en question un design prometteur mais bancal.</p>
+
+<h4>
+<a name="3-exemple-une-bonne-id%C3%A9e-que-personne-ne-comprend" class="anchor" href="#3-exemple-une-bonne-id%C3%A9e-que-personne-ne-comprend"><span class="octicon octicon-link"></span></a>3. Exemple: Une bonne idée que personne ne comprend</h4>
+
+<p>Parfois une idée peut-être bonne, et offrir un gameplay intéressant, mais être un peu contre-intuitive et donc difficile à communiquer efficacement au joueur.</p>
+
+<p>Deux raisons peuvent exister, soit le mécanisme est inhabituel ou en-dehors de la culture du joueur, soit le mécanisme est trop complexe et nécessite un apprentissage pour être maîtrisable.</p>
+
+<p>Il faut détecter ce problème rapidement, afin de déterminer une solution à appliquer pendant le développement, comme un tutorial, ou mieux, une refonte ou une simplification des mécanismes de jeu.</p>
+
+<p><img src="http://www.pressxordie.com/wp-content/uploads/df-nogfx.jpg" alt="Dwarf Fortress: Je vois pas le problème"><br><sup><em>Dwarf Fortress: Par un dev hardcore, pour un joueur hardcore</em></sup></p>
+
+<p><img src="https://lh3.ggpht.com/MK0sMPxnzvPFxE-YsW1GZeGKv6TJsyps9ucO-trna9n6xT_zrYgJocWYEB-AeADDkQ=h900" alt="Rymdkapsel: Déjà c'est plus clair"><br><sup><em>Rymdkapsel: Le base-building pour tous</em></sup></p>
+
+<p>Dans ce cas, on a aussi une question de cible, un joueur "hardcore", qui sait dans quoi il s'engage, est prêt à faire l'effort de l'apprentissage d'une interface et un gameplay complexes, dans ce cas, simplifier les mécanismes est perçu comme une trahison. La niche visée par des jeux comme Dwarf Fortress apprécie la difficulté de l'interface.</p>
+
+<p>La cible grand public appréciera plutôt un jeu qui introduit sa complexité plus doucement, ceci n'est pas une question de difficulté pure, mais simplement de compréhension de mécanismes. Rymdkapsel est un exemple de cet état d'esprit, en réduisant le jeu de stratégie à ses éléments les plus simples, on obtient un jeu facile d'accès où les joueurs peu expérimentés commencent rapidement à développer leurs tactiques.</p>
+
+<p>Être conscient de la cible et choisir des testeurs qui correspondent est un élément indispensable de la phase de prototypage. Tous les jeux ne sont pas pour tout le monde, par contre plus la cible est réduite, plus il faut être certain que sa cible apprécie le concept, donc obtenir une réaction positive claire très tôt dans le prototypage</p>
+
+<h3>
+<a name="2-co%C3%BBts-du-prototypage-fatigue-et-sentiment-dinutilit%C3%A9" class="anchor" href="#2-co%C3%BBts-du-prototypage-fatigue-et-sentiment-dinutilit%C3%A9"><span class="octicon octicon-link"></span></a>2/ Coûts du prototypage: Fatigue et sentiment d'inutilité</h3>
+
+<h4>
+<a name="1-fatigue" class="anchor" href="#1-fatigue"><span class="octicon octicon-link"></span></a>1. Fatigue</h4>
+
+<p>L'activité de prototypage est particulièrement cérébrale, et si on est dans des phases de prototypage rapide sous forme de jam, on peut facilement se sentir épuisé ou à court de motivation.
+Continuer à prototyper dans cet état est rapidement contre-productif. Il faut prendre garde à éviter la situation d'épuisement. Une solution possible est d'entrecouper les cycles de prototypage avec des périodes de réflexion.</p>
+
+<h5>
+<a name="p%C3%A9riodes-de-r%C3%A9flexion" class="anchor" href="#p%C3%A9riodes-de-r%C3%A9flexion"><span class="octicon octicon-link"></span></a>Périodes de réflexion</h5>
+
+<p>Dans le processus de prototypage, on doit mettre en place des périodes ou scéances où on prend du temps pour avoir une activité différente.
+Voici quelques exemples de ce que l'on peut faire pendant cette période:</p>
+
+<ul>
+<li>Socialiser, rencontrer des gens et discuter du sujet en question</li>
+<li>Tester d'autres jeux similaires (pas trop de temps à l'écran si possible)</li>
+<li>Lire livres et bandes-dessinées</li>
+<li>Se promener en écoutant de la musique</li>
+</ul><p>Cette période ne doit bien sûr pas prendre le dessus sur le travail, mais formaliser le besoin de réflechir à autre chose et changer d'air permet d'éviter d'arriver à court de motivation et d'inspiration.</p>
+
+<h4>
+<a name="2-sentiment-dinutilit%C3%A9" class="anchor" href="#2-sentiment-dinutilit%C3%A9"><span class="octicon octicon-link"></span></a>2. Sentiment d'inutilité</h4>
+
+<p>Pour qu'un prototype soit utile, il faut qu'il soit créé rapidement, c'est à dire souvent sans trop de considération pour un code réutilisable. Aussi, l'intérêt du prototypage étant de valider ou rejeter des idées, un prototype se retrouve souvent jeté à la poubelle. On se retrouve donc à écrire des programmes entiers qui ne seront souvent jamais utilisés, et même s'ils sont réutilisés, ça ne sera qu'après un refactor, ou préférablement une réécriture.</p>
+
+<h6>
+<a name="pourquoi-coder-si-cest-pour-tout-jeter" class="anchor" href="#pourquoi-coder-si-cest-pour-tout-jeter"><span class="octicon octicon-link"></span></a><em>Pourquoi coder si c'est pour tout jeter?</em>
+</h6>
+
+<p>Des prototypes de jeux sont finalement quasiment des jeux complets, et ont consommé beaucoup d'effort à la création, on est donc facilement tenté de conserver le prototype tel quel et de l'utiliser comme base de production. Le problème c'est que développer dans cet état d'esprit risque de ralentir le cycle de prototype, et devient problématique lorsqu'on s'attache à son code alors qu'il ne sera peut-être pas utilisé.
+Pendant les cycles de prototypage, il faut donc encourager une culture de programmation rapide et ad-hoc. Il faut être dans l'idée que le code ne sera pas réutilisé sous cette forme. Dans tous les cas, le code n'est censé représenter au maximum qu'une semaine de travail, et donc devoir reprogrammer ne coûte que peu de temps.</p>
+
+<h6>
+<a name="pourquoi-la-plupart-de-mes-id%C3%A9es-finissent-par-%C3%AAtre-rejet%C3%A9es" class="anchor" href="#pourquoi-la-plupart-de-mes-id%C3%A9es-finissent-par-%C3%AAtre-rejet%C3%A9es"><span class="octicon octicon-link"></span></a><em>Pourquoi la plupart de mes idées finissent par être rejetées?</em>
+</h6>
+
+<p>Le meilleur prototype est celui qui rejette une idée, qui falsifie ses idées pré-conçues, et remet en question la direction qu'on comptait prendre.
+Par conséquent, le meilleur prototype est celui qu'on jette à la poubelle dès qu'on l'a testé.
+Ceci peut mener à un manque de motivation lorsqu'on se rend compte que certaines, voir parfois la plupart de ses idées et de son temps de développement sera simplement classé "sans suite". Pour qu'une période de prototypage se déroule agréablement et efficacement, il faut réduire cet état d'esprit, et promouvoir l'idée que ce temps "perdu" est réellement un gain. Cet effort se traduit à la longue à un gain de temps, d'argent et de qualité de produit final.
+Il est donc important d'inclure dans la méthodologie des mécanismes qui permettent au developpeur de pouvoir constater rapidement l'intérêt du travail, et de se sentir valorisé quand l'idée testée est finalement rejetée.</p>
+
+<h3>
+<a name="3-optimiser-la-valeur-diminuer-le-co%C3%BBt" class="anchor" href="#3-optimiser-la-valeur-diminuer-le-co%C3%BBt"><span class="octicon octicon-link"></span></a>3/ Optimiser la valeur, Diminuer le coût</h3>
+
+<h4>
+<a name="1-la-feuille-de-contexte" class="anchor" href="#1-la-feuille-de-contexte"><span class="octicon octicon-link"></span></a>1. La feuille de contexte</h4>
+
+<blockquote>
+<p>Cible:<br>
+Plateformes:<br>
+Modes d'interaction:<br>
+Références:   </p>
+</blockquote>
+
+<h4>
+<a name="2-la-feuille-de-questions" class="anchor" href="#2-la-feuille-de-questions"><span class="octicon octicon-link"></span></a>2. La feuille de questions</h4>
+
+<p>Exemple:</p>
+
+<blockquote>
+<h5>
+<a name="est-ce-que-les-joueurs-comprennent-le-m%C3%A9canisme" class="anchor" href="#est-ce-que-les-joueurs-comprennent-le-m%C3%A9canisme"><span class="octicon octicon-link"></span></a>Est-ce que les joueurs comprennent le mécanisme?</h5>
+
+<p>Oui, c'est assez simple, il n'y a que deux axes à gérer<br>
+Cependant, les commandes Kinect ne sont pas intuitives</p>
+
+<h5>
+<a name="est-ce-que-les-joueurs-arrivent-%C3%A0-contr%C3%B4ler-efficacement-le-personnage" class="anchor" href="#est-ce-que-les-joueurs-arrivent-%C3%A0-contr%C3%B4ler-efficacement-le-personnage"><span class="octicon octicon-link"></span></a>Est-ce que les joueurs arrivent à contrôler efficacement le personnage?</h5>
+
+<p>Non, les commandes Kinect ne sont pas adaptées
+Parfois les joueurs s'écartent de la piste et se perdent</p>
+
+<h5>
+<a name="est-ce-que-les-joueurs-ont-la-sensation-de-vitesse" class="anchor" href="#est-ce-que-les-joueurs-ont-la-sensation-de-vitesse"><span class="octicon octicon-link"></span></a>Est-ce que les joueurs ont la sensation de vitesse?</h5>
+
+<p>Oui, quand ils arrivent à jouer, ils ont l'impression d'aller même trop vite, mais réussissent tout de même à continuer</p>
+
+<h5>
+<a name="quel-est-le-degr%C3%A9-de-difficult%C3%A9" class="anchor" href="#quel-est-le-degr%C3%A9-de-difficult%C3%A9"><span class="octicon octicon-link"></span></a>Quel est le degré de difficulté?</h5>
+
+<p>Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.</p>
+</blockquote>
+
+<h4>
+<a name="3-la-feuille-de-prototype" class="anchor" href="#3-la-feuille-de-prototype"><span class="octicon octicon-link"></span></a>3. La Feuille de prototype</h4>
+
+<blockquote>
+<p>Concept:<br>
+Proposition:<br>
+Restrictions:<br>
+Technologies à utiliser:<br>
+Temps de cycle:<br>
+Temps de test:<br>
+Nombre de testeurs:<br>
+Résultat:<br>
+Verdict:   </p>
+</blockquote>
+
+<p>Exemple:</p>
+
+<blockquote>
+<p>Concept: <em>Voler et aller vite est plaisant du point de vue kinesthésique, et rendre ce gameplay simple et accessible peut être intéressant</em><br>
+Proposition: <em>Le personnage-joueur avance en continu, le joueur peut contrôler la direction, le level design encourage le fait de passer près d'autres objets, et des bonus de vitesse accélèrent le joueur</em><br>
+Restrictions: <em>Doit être jouable sur Kinect</em><br>
+Technologies à utiliser: <em>Unity3D</em><br>
+Temps de cycle: <em>Une semaine</em><br>
+Temps de test: <em>Une journée</em><br>
+Nombre de testeurs: <em>Quatre</em><br>
+Résultat: <em>Les joueurs aiment la sensation de vitesse, mais perdent rapidement le contrôle, et n'arrivent pas à retrouver le chemin</em><br>
+Verdict: <em>Reprototypage à faire: Auto-piloter le joueur en cas de sortie de chemin</em>      </p>
+</blockquote>
+
+<h4>
+<a name="4-assets-neutres" class="anchor" href="#4-assets-neutres"><span class="octicon octicon-link"></span></a>4. Assets neutres</h4>
+
+<p><img src="http://www.tbrmaps.com/pictures/tf2/cp_orange_hideout_v1/cp_orange_hideout_v10004.jpg" alt="cp_orange_hideout"><br><sup><em>Team Fortress 2: Une carte avec des assets neutres</em></sup></p>
+
+<p>Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que l'aspect visuel. Ces assets sont disponibles facilement, ont une texture quadrillée et existent en différentes couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façon codifiée, par exemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouge pour désigner les parties de la map qui appartiennent à l'une ou l'autre des équipes. Les seuls éléments "artistiques" sont les portes, packs de munitions et de vie, et points de contrôle. D'une part parce que ces éléments sont communs à toutes les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier ces objets en tant qu'éléments spécifiques et importants.</p>
+
+<h4>
+<a name="5-proposition---255025" class="anchor" href="#5-proposition---255025"><span class="octicon octicon-link"></span></a>5. Proposition - [25%|50%|25%]</h4>
+
+<h5>
+<a name="step-wan-prep-25" class="anchor" href="#step-wan-prep-25"><span class="octicon octicon-link"></span></a>Step wan: Prep (25%)</h5>
+
+<p>S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.</p>
+
+<h5>
+<a name="step-too-dev-50" class="anchor" href="#step-too-dev-50"><span class="octicon octicon-link"></span></a>Step too: Dev (50%)</h5>
+
+<p>Se mettre en mode "jam", trouver rapidement une idée à exploiter, et remplir la feuille de prototype ainsi que la feuille de questions.</p>
+
+<ul>
+<li>Créer le prototype.</li>
+<li>Le jeu doit être jouable et présenter clairement le concept.</li>
+<li>Tout autre élément est à laisser si ça n'aide pas à comprendre et évaluer le concept.</li>
+<li>Graphismes minimum (utiliser un pack d'asset standards)</li>
+<li>Pas d'histoire</li>
+<li>Eviter les éléments de HUD qui ne sont pas essentiels au gameplay</li>
+<li>De même, ne pas formaliser de mécanismes d'échec ou de réussite si ce n'est pas dans la problématique du prototype</li>
+</ul><h5>
+<a name="step-tree-test-25" class="anchor" href="#step-tree-test-25"><span class="octicon octicon-link"></span></a>Step tree: Test (25%)</h5>
+
+<p>Faire tester le proptotype par un maximum de personnes :</p>
+
+<ul>
+<li>Expliquer les règles</li>
+<li>Expliquer au joueur qu'il doit parler en jouant</li>
+<li>Pendant que le joueur joue, ne pas répondre s'il pose des questions ou fait des remarques</li>
+<li>Un court entretien, discuter des expériences de jeu avec le testeur</li>
+<li>Guider la conversation vers les sujets abordés par les questions</li>
+<li>Ecouter tout de même les remarques "hors sujet" du testeur et les noter</li>
+<li>Pendant l'entretien, laisser le jeu lancé et disponible pour l'encourager à montrer ce qu'il veut expliquer</li>
+<li>Noter s'il rejoue naturellement par lui-même</li>
+<li>Ne jamais lui prendre la manette</li>
+<li>Après la session, répondre aux questions choisies sur la feuille de questions.</li>
+</ul><p>Après les tests, établir le verdict. Faut-il continuer à exploiter l'idée? Reste-t-il des éléments qui ont besoin d'être testés en prototype?
+Décider des modalités de la prochaine étape (Nouveau cycle de prototypage ou passage en production)</p>
+
+<h4>
+<a name="6-dur%C3%A9e" class="anchor" href="#6-dur%C3%A9e"><span class="octicon octicon-link"></span></a>6. Durée</h4>
+
+<p>Ce cycle peut être sur un laps de temps allant de 4 jours (1 jour prep, 2 jours dev, 1 jour test) à deux semaines (fin de semaine prep, une semaine dev, début de la semaine test, à enchaîner derrière).</p>
+
+<p>Les cycles courts peuvent être utilisés pour tester des gameplays simples ou des améliorations de produits existants. Les cycles longs sont plus utiles pour le développement de prototypes de jeux "complets".</p>
+
+<p>La période prep est utile pour se vider l'esprit avant d'attaquer le prototype, ce n'est pas forcément essentiel si on ne fait qu'un ou deux cycles.
+Cependant, le prototypage étant un exercice assez intense, la fatigue peut rendre moins efficace à terme, il faut donc prendre ses précautions en mettant du temps de prep de coté pour éviter l'épuisement et maintenir ses facultés.</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Protowiping maintained by <a href="https://github.com/Bradshaw">Bradshaw</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
