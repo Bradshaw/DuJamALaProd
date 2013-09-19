@@ -1,4 +1,4 @@
-Bonjour, je m'appelle Kevin Bradshaw, et je viens de faire trois mois de stage à NaturalPad.
+Bonjour, je m'appelle Kevin Bradshaw, et je viens de faire trois mois de stage chez NaturalPad.
 J'ai un parcours scolaire tumultueux, trois redoublements, seconde option théâtre, Bac STI Génie Optique, trois années "sabbatiques", et un abandon en deuxième troisième année de licence informatique.
 J'ai aussi quelques années de travail dans le fast-food, bars et campings, qui, lorsqu'on considère mes succès académiques, font de moi le candidat idéal dans une STIC qui spécialise dans la recherche et l'innovation.
 
