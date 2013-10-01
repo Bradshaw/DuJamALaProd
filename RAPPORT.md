@@ -9,9 +9,15 @@ Protowiping
 [The upside of failing](http://www.youtube.com/watch?v=ipbkRxIiWaM)   
 
 
-## Building
+## Protowiping
+
+Au moment d'écrire ces lignes, je viens d'effectuer trois mois de stage à Natural Pad, une entreprise qui spécialise dans la conception de jeux sérieux pour la santé. Du fait du caractère innovant et original des demandes dans le milieu du jeu video thérapeutique, mon stage s'est surtout orienté sur des cycles de prototypage pour un nouveau jeu.
+
+Pendant ces trois mois, j'ai pu identifier quelques-uns des difficultés qui peuvent survenir lors des travaux de prototypage, ainsi que formaliser les éléments qui permettent de mener à bien un prototype et d'en profiter au maximum.
 
 ### 1/ Pourquoi prototyper?
+
+Un prototype ce n'est pas juste un projet rapidement terminé, c'est un projet qui teste rapidement un concept. Une idée a besoin d'être testée parce qu'elle peut être mauvaise, ou si elle est bonne, elle peut être mal définie, difficile à expliquer ou mal exploitée. Vérifier rapidement la validité d'une idée permet de ne pas perdre du temps, et de tirer le maximum des concepts proposés.
 
 #### 1. Trouver une direction et éviter les pièges
 
@@ -66,6 +72,8 @@ La cible grand public appréciera plutôt un jeu qui introduit sa complexité pl
 
 ### 2/ Coûts du prototypage: Fatigue et sentiment d'inutilité
 
+Si prototyper une idée propose des avantages considérables, il a aussi un coût. Si on veut pouvoir profiter au maximum de cette méthode, il faut être capable de comprendre ces coûts et leurs origines, et être capable de minimiser ou mitiger ces coûts.
+
 #### 1. Fatigue
 
 L'activité de prototypage est particulièrement cérébrale, et si on est dans des phases de prototypage rapide sous forme de jam, on peut facilement se sentir épuisé ou à court de motivation.
@@ -102,7 +110,11 @@ Il est donc important d'inclure dans la méthodologie des mécanismes qui permet
 
 ### 3/ Optimiser la valeur, Diminuer le coût
 
+Voici donc quelques éléments et une méthodologie qui devraient aider à maximiser les avantages d'une session de prototypage tout en minimisant les effets négatifs que peuvent ressentir les développeurs.
+
 #### 1. La feuille de contexte
+
+La feuille de contexte sert essentiellement pour aider à définir le projet dans ces grandes lignes. Garder le contexte en tête pendant tout le processus est important pour être capable de créer les prototypes qui iront dans la bonne direction, et être capable des les évaluer correctement.
 
 > Cible:   
 > Plateformes:   
@@ -112,6 +124,8 @@ Il est donc important d'inclure dans la méthodologie des mécanismes qui permet
 
 
 #### 2. La feuille de questions
+
+Avant la création du prototype, une feuille de questions (3 à 6 questions environ) est créé. Ces questions seront posées lors de la phase de test, et permettront à la fois d'évaluer la pertinance du prototype vis-à-vis du concept, mais aussi la viabilité de ce même concept.
 
 Exemple:
 
@@ -130,6 +144,8 @@ Exemple:
 > Clairement trop difficile, quand les joueurs perdent le contrôle quelques instants, ils sont perdus.
 
 #### 3. La Feuille de prototype
+
+La feuille de prototype est un petit résumé du prototype, servant à condenser et classer les protoypes qui seront créés.
 
 > Concept:   
 > Proposition:   
@@ -164,6 +180,8 @@ Exemple:
 Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que l'aspect visuel. Ces assets sont disponibles facilement, ont une texture quadrillée et existent en différentes couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façon codifiée, par exemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouge pour désigner les parties de la map qui appartiennent à l'une ou l'autre des équipes. Les seuls éléments "artistiques" sont les portes, packs de munitions et de vie, et points de contrôle. D'une part parce que ces éléments sont communs à toutes les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier ces objets en tant qu'éléments spécifiques et importants.
 
 #### 5. Proposition - [25%|50%|25%]
+
+Voici donc la marche à suivre pour mener une session de prototypage grâce à la méthodologie Protowiping.
 
 ##### Step wan: Prep (25%)
 S'imbiber de références et noter des idées. Se promener en ville ou à la campagne, jouer à des jeux similaires en concept, noter les idées intéressantes sur papier libre.
