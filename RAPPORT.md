@@ -179,6 +179,20 @@ Exemple:
 
 Chez Valve, les maps sont créés avec des assets graphiques neutres, qui permettent de se focaliser sur le gameplay plutôt que l'aspect visuel. Ces assets sont disponibles facilement, ont une texture quadrillée et existent en différentes couleurs. Le quadrillage donne une texture à l'asset, qui permet de mieux distinguer les distances à la caméra, mais sans être distrayants. Les couleurs sont souvent utilisées de façon codifiée, par exemple pour TF2, gris pour les sols, orange pour les murs et autres impassibles, bleu et rouge pour désigner les parties de la map qui appartiennent à l'une ou l'autre des équipes. Les seuls éléments "artistiques" sont les portes, packs de munitions et de vie, et points de contrôle. D'une part parce que ces éléments sont communs à toutes les maps, et les joueurs ont appris à les reconnaitre symboliquement, et d'autre part parce que le style différent permet d'identifier ces objets en tant qu'éléments spécifiques et importants.
 
+
+![Red vs Blu](https://dl.dropboxusercontent.com/u/6549099/redvblu.gif)   
+<sup>*Prototype en 4 heures, assets neutres abstraits*</sup>
+
+Un asset "neutre" est un asset qui est facilement accéssible et qui parle immédiatement au joueur, sans impliquer forcément un univers. Il y a donc deux sortes d'assets neutres.
+La première sorte est réellement neutre, une texture quadrillée et une couleur par exemple. Ce genre d'asset est utile pour créer un niveau global, des couleurs comme vert et rouges peuvent indiquer bien/pas bien. Ou deux couleurs pour indiquer l'appartenance à une équipe. Nous appellerons ce genre d'asset un "asset abstrait".
+
+
+![Health Kit](http://farm7.static.flickr.com/6130/5958721116_c248a54de1_o.jpg)   
+<sup>*Devinez ce que fait cet objet*</sup>
+
+Une autre sorte d'asset est ce qu'on appellera "asset symbolique". Ce genre d'asset, par une culture "globale" indique clairement au joueur un rôle bien défini. On peut profiter de cette lecture universelle pour communiquer des éléments de gameplay sans avoir à les expliquer. Un fusil, un ballon et une cage de foot, ou le kit de premier soins, sont tous des objets qu'un joueur comprendra "intuitivement". Il est donc important de créer une banque d'assets de ce genre afin de pouvoir les utiliser dans un prototype.
+Le "style" de ces assets symboliques n'est pas important, idéalement on utilise des assets qui sont suffisamment neutres pour ne pas indiquer un univers ou une histoire, ils servent uniquement à communiquer des fonctions de jeu.
+
 #### 5. Proposition - [25%|50%|25%]
 
 Voici donc la marche à suivre pour mener une session de prototypage grâce à la méthodologie Protowiping.
